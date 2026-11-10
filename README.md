@@ -1,4 +1,5 @@
-# MOMO - Smart MOMO V2 – Smart Animal Scanner
+
+MOMO V2 – Smart Animal Scanner
 
 Project Name: MOMO
 Version: V2
@@ -15,7 +16,7 @@ MOMO is an Android application designed to work with a smart animal scanning pro
 - Animal information records.
 - Examination history and follow-up notes.
 - Arabic and French interface.
-- Smart probe connection planned through Wi-Fi and USB-C.
+- Planned smart probe connection through Wi-Fi and USB-C.
 - Support for different animal species, with the ability to add new species.
 
 3. Hardware Integration
@@ -35,13 +36,6 @@ Early Android prototype. The application currently supports basic animal records
 - Probe calibration.
 - Examination reports.
 
-Important: MOMO is a development project and does not currently provide veterinary diagnosis. Scanner
+6. Important Notice
 
-Android application project.
-
-- Project: MOMO
-- Platform: Android
-- Version: V1
-- Purpose: Smart animal scanning
-
-This repository contains the source code and build configuration for the MOMO Android application.
+MOMO is a development project and does not currently provide veterinary diagnosis.
